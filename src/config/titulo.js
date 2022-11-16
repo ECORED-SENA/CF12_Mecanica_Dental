@@ -1,1 +1,2 @@
-module.exports = 'NOMBRE DEL COMPONENTE FORMATIVO'
+module.exports =
+  'Orientar al usuario hacia los servicios de salud, usando las plataformas de salud y realizando seguimiento de servicio al cliente'
