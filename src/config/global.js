@@ -174,15 +174,186 @@ export default {
         'Ley número 1122 de 2007 (enero 9) Por la cual se hacen algunas modificaciones en el Sistema General de Seguridad Social en Salud y se dictan otras disposiciones El congreso de la república de Colombia',
       referencia:
         'Ley número 1122 de 2007 (enero 9) Por la cual se hacen algunas modificaciones en el Sistema General de Seguridad Social en Salud y se dictan otras disposiciones El congreso de la república de Colombia',
-      tipo: 'Página WEB',
+      tipo: 'Página web',
       link:
         'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/DE/DIJ/ley-1122-de-2007.pdf',
     },
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      descarga: '/downloads/prueba.pdf',
+      tema: 'Cuotas moderadoras y copagos (acuerdo 260 de 2004 cnsss)',
+      referencia: 'Cuotas moderadoras y copagos (acuerdo 260 de 2004 cnsss)',
+      tipo: 'Página web',
+      link:
+        'https://pospopuli.minsalud.gov.co/PospopuliWeb/files/cuotas-moderadoras-copagos-2020.pdf',
+    },
+    {
+      tema:
+        'Acuerdo número 365 de 2007 por el cual se establecen disposiciones para el no cobro de copagos a poblaciones especiales en el régimen subsidiado el consejo nacional de seguridad social en salud',
+      referencia:
+        'Acuerdo número 365 de 2007 por el cual se establecen disposiciones para el no cobro de copagos a poblaciones especiales en el régimen subsidiado el consejo nacional de seguridad social en salud',
+      tipo: 'Página web',
+      link:
+        'http://www.emssanar.org.co/media/attachments/2017/08/25/cnsss-acuerdo-365-2007_no-cobro-de-copagos-a-poblaciones-especiales.pdf',
+    },
+    {
+      tema:
+        'Conceptos sobre copagos y cuotas moderadoras en el Régimen Contributivo)',
+      referencia:
+        'Conceptos sobre copagos y cuotas moderadoras en el Régimen Contributivo)',
+      tipo: 'Página web',
+      link:
+        'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/IA/SSA/Conceptos-sobre-copagos-cuotas-moderadoras.pdf',
+    },
+    {
+      tema:
+        'La nueva plataforma que conecta la salud con la tecnología. 14 de junio de 2019 / MinTIC en los Medios)',
+      referencia:
+        'La nueva plataforma que conecta la salud con la tecnología. 14 de junio de 2019 / MinTIC en los Medios)',
+      tipo: 'Página web',
+      link:
+        'https://mintic.gov.co/portal/inicio/Sala-de-Prensa/MinTIC-en-los-Medios/101325:La-nueva-plataforma-que-conecta-la-salud-con-la-tecnologia',
+    },
+    {
+      tema:
+        'OPS lanzó nueva Plataforma sobre Acceso e Innovación para Tecnologías Sanitarias)',
+      referencia:
+        'OPS lanzó nueva Plataforma sobre Acceso e Innovación para Tecnologías Sanitarias)',
+      tipo: 'Página web',
+      link:
+        'https://www.paho.org/col/index.php?option=com_content&view=article&id=1568:ops-lanza-una-nueva-plataforma-sobre-acceso-e-innovacion-para-tecnologias-sanitarias&Itemid=553',
+    },
+    {
+      tema: 'SISPRO)',
+      referencia: 'SISPRO)',
+      tipo: 'Página web',
+      link: 'https://www.sispro.gov.co/Pages/Home.aspx',
+    },
+    {
+      tema:
+        'Base de Datos Única de Afiliados BDUA del Sistema General de Seguridad Social en Salud BDUA-SGSSS)',
+      referencia:
+        'Base de Datos Única de Afiliados BDUA del Sistema General de Seguridad Social en Salud BDUA-SGSSS)',
+      tipo: 'Página web',
+      link:
+        'https://www.adres.gov.co/Paginas/PageNotFoundError.aspx?requestUrl=https://www.adres.gov.co/BDUA/Consulta-Afiliados-BDUA',
+    },
+    {
+      tema:
+        'Sistema Único de Habilitación/ Ministerio de Salud y Protección Social)',
+      referencia:
+        'Sistema Único de Habilitación/ Ministerio de Salud y Protección Social)',
+      tipo: 'Página web',
+      link:
+        'https://www.minsalud.gov.co/salud/PServicios/Paginas/Sistema-unicode-habilitacion.aspx',
+    },
+    {
+      tema:
+        'Resolución número 00002003 de 2014 (28 MAY 2014) Por la cual se definen los procedimientos y condiciones de inscripción de los Prestadores de Servicios de Salud y de habilitación de servicios de salud.)',
+      referencia:
+        'Resolución número 00002003 de 2014 (28 MAY 2014) Por la cual se definen los procedimientos y condiciones de inscripción de los Prestadores de Servicios de Salud y de habilitación de servicios de salud.)',
+      tipo: 'Página web',
+      link:
+        'https://www.minsalud.gov.co/Normatividad_Nuevo/Resoluci%C3%B3n%202003%20de%202014.pdf',
+    },
+    {
+      tema:
+        'Resolución número 1441 DE 2013 Por la cual se definen los procedimientos y condiciones que deben cumplir los Prestadores de Servicios de Salud para habilitar los servicios y se dictan otras Disposiciones.',
+      referencia:
+        'Resolución número 1441 DE 2013 Por la cual se definen los procedimientos y condiciones que deben cumplir los Prestadores de Servicios de Salud para habilitar los servicios y se dictan otras Disposiciones.',
+      tipo: 'Página web',
+      link:
+        'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/DE/DIJ/resolucion-1441-de-2013.pdf',
+    },
+    {
+      tema:
+        'Resolución número 2082 DE 2014 Por la cual se dictan disposiciones para la operatividad del Sistema Único de Acreditación en Salud.',
+      referencia:
+        'Resolución número 2082 DE 2014 Por la cual se dictan disposiciones para la operatividad del Sistema Único de Acreditación en Salud.',
+      tipo: 'Página web',
+      link:
+        'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/DE/DIJ/Resolucion-2082-de-2014.pdf',
+    },
+    {
+      tema:
+        'Sistema Único de Acreditación Ministerio de Salud y Protección Social',
+      referencia:
+        'Sistema Único de Acreditación Ministerio de Salud y Protección Social',
+      tipo: 'Página web',
+      link:
+        'https://www.minsalud.gov.co/salud/PServicios/Paginas/sistema-unico-acreditacion-sistemaobligatorio-garantia-calidad.aspx',
+    },
+    {
+      tema: 'ABC Sobre el sistema único de acreditación en salud',
+      referencia: 'ABC Sobre el sistema único de acreditación en salud',
+      tipo: 'Página web',
+      link:
+        'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/DE/CA/abc-suas.pdf',
+    },
+    {
+      tema: 'Definición de satisfacción del cliente',
+      referencia: 'Definición de satisfacción del cliente',
+      tipo: 'Página web',
+      link: 'https://definicion.de/satisfaccion-del-cliente/',
+    },
+    {
+      tema:
+        'Sistema De Atención De Peticiones, Quejas, Reclamos Y Sugerencias (PQRS)',
+      referencia:
+        'Sistema De Atención De Peticiones, Quejas, Reclamos Y Sugerencias (PQRS)',
+      tipo: 'Página web',
+      link:
+        'https://www.isotools.org/2017/10/24/sistema-atencion-peticiones-quejas-reclamos-sugerencias-pqrs/',
+    },
+    {
+      tema: 'Ley 1122 de 2007. 8 abr de 2007. Publicado por Angie Montoya.',
+      referencia:
+        'Ley 1122 de 2007. 8 abr de 2007. Publicado por Angie Montoya.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=pBYY-uG63PQ',
+    },
+    {
+      tema: 'Ley 1122 del 2007. Principales cambios. 31 jul de 2014.',
+      referencia: 'Ley 1122 del 2007. Principales cambios. 31 jul de 2014.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=XD_0h2uK_hw',
+    },
+    {
+      tema:
+        'Ministerio de Salud y Protección Social. (2015), Cartilla aseguramiento a salud y movilidad Min salud.',
+      referencia:
+        'Ministerio de Salud y Protección Social. (2015), Cartilla aseguramiento a salud y movilidad Min salud.',
+      tipo: 'Artículo',
+      link:
+        'https://issuu.com/comunicacionessavia/docs/cartilla_aseguramiento_a_salud_y_mo',
+    },
+    {
+      tema: 'Socha, Daniela. (2017). SISPRO.',
+      referencia: 'Socha, Daniela. (2017). SISPRO.',
+      tipo: 'Artículo - presentación',
+      link: 'https://prezi.com/p/0rvukzynlc9m/sispro/',
+    },
+    {
+      tema: 'Ministerio de Salud. Sistema único de habilitación.',
+      referencia: 'Ministerio de Salud. Sistema único de habilitación.',
+      tipo: 'Página web',
+      link:
+        'https://www.minsalud.gov.co/salud/PServicios/Paginas/Sistema-unicode-habilitacion.aspx',
+    },
+    {
+      tema:
+        'Ministerio de Salud. Registro Único Nacional del Talento Humano en Salud - RETHUS.',
+      referencia:
+        'Ministerio de Salud. Registro Único Nacional del Talento Humano en Salud - RETHUS.',
+      tipo: 'Página web',
+      link:
+        'https://www.minsalud.gov.co/salud/PO/Paginas/registro-unico-nacional-del-talento-humano-en-salud-rethus.aspx',
+    },
+    {
+      tema:
+        'Implementación del PAMEC con énfasis en Seguridad del Paciente - Videoconferencia. 11 oct de 2016.',
+      referencia:
+        'Implementación del PAMEC con énfasis en Seguridad del Paciente - Videoconferencia. 11 oct de 2016.',
+      tipo: 'Video',
+      link: 'Video',
     },
   ],
   glosario: [
