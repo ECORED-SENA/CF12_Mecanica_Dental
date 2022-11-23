@@ -119,7 +119,7 @@
       .row.justify-content-center.mb-5  
         .col-lg-8
           p En el 2007 la resolución 2680 de 2007 se modifica parcialmente la Resolución 1043 de 2006 y se dictan otras disposiciones.
-          p En el 2007 la resolución 3763. Por la cual se modifican parcialmente las Resoluciones 1043 y 1448 de 2006 y la Resolución 2680 de 2007 y se dictan otras disposiciones
+          p En el 2007 la resolución 3763. Por la cual se modifican parcialmente las Resoluciones 1043 y 1448 de 2006 y la Resolución 2680 de 2007 y se dictan otras disposiciones.
           .row.align-items-center.mb-3
             .col-lg-2
               figure

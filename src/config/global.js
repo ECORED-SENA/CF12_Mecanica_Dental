@@ -341,7 +341,7 @@ export default {
       referencia:
         'Implementación del PAMEC con énfasis en Seguridad del Paciente - Videoconferencia. 11 oct de 2016.',
       tipo: 'Video',
-      link: 'Video',
+      link: 'https://www.youtube.com/watch?v=pKc5EbWRf9k',
     },
   ],
   glosario: [
@@ -614,12 +614,7 @@ export default {
       link:
         'https://pospopuli.minsalud.gov.co/PospopuliWeb/files/cuotas-moderadoras-copagos-2020.pdf',
     },
-    {
-      referencia:
-        'Komiya, A. (30 de 10 de 2015). CreceNegocios. Recuperado de Qué es el servicio al cliente y cuál es su importancia',
-      link:
-        'https://www.crecenegocios.com/que-es-el-servicio-al-cliente-y-cual-es-su-importancia/',
-    },
+
     {
       referencia: 'Ley 1122 del 2007, 18 (2007)',
       link:
@@ -684,8 +679,19 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
-        cargo: 'Producción audiovisual',
+        nombre: 'Zuleidy María Ruíz Torres',
+        cargo: 'Revisión guion audiovisual',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
+      },
+      {
+        nombre: 'Wilson Andrés Arenales Cáceres',
+        cargo: 'Validación Ilustración',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Gilberto Junior Rodríguez Rodríguez',
+        cargo: 'Validación audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
@@ -696,8 +702,8 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
-        cargo: 'Validación de diseño y contenido',
+        nombre: 'Veimar Celis Melendez',
+        cargo: 'Validación contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },

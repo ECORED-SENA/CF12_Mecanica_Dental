@@ -7,7 +7,7 @@
         span 1
       h1 Modificaciones en el sistema general de seguridad social en salud
     #t_1_1.titulo-segundo.color-acento-contenido(data-aos="zoom-out-right")
-        h2 1.1. Ley número 1122 de 2007
+        h2 1.1 Ley número 1122 de 2007
   
     .bg1.p-5 
       .row.align-items-center.mb-5
@@ -15,7 +15,7 @@
           p Por la cual se hacen algunas modificaciones en el Sistema General de Seguridad Social en Salud y se dictan tras disipaciones.
     Separador
     #t_1_2.titulo-segundo.color-acento-contenido(data-aos="zoom-out-right")
-        h2 1.2. Objeto
+        h2 1.2 Objeto
     .bg2
       .row.align-items-center.mb-5(data-aos="fade-right")
         .col-lg-1

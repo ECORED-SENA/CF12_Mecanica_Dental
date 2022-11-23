@@ -28,10 +28,10 @@
                       a.boton.color-acento-botones.me-3.mg4(href="http://www.emssanar.org.co/media/attachments/2017/08/25/cnsss-acuerdo-365-2007_no-cobro-de-copagos-a-poblaciones-especiales.pdf" target="_blank").mb-0                    
                         span Descargar
                         i.fas.fa-file-download
-            p.mb-3 Articulo primero. - poblaciones especiales no sujetas al cobro de copagos en el régimen subsidiado.
+            p.mb-2 Articulo primero. - poblaciones especiales no sujetas al cobro de copagos en el régimen subsidiado.
       .col-md-6.order-md-2.order-1.mb-md-0.mb-4.px-0(data-aos="fade-left")
         img(src="@/assets/curso/tema3/img2.png") 
-
+    p.mb-0.text-center <b>Las poblaciones a las cuales aplica lo señalado en este artículo son:</b>
     .row.justify-content-center.align-items-center(data-aos="fade-left").mb-5
       .col-lg-12.col-md-6
         SlyderF(columnas="col-lg-6 col-xl-4")

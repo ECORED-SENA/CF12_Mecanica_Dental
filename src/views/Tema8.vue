@@ -16,7 +16,7 @@
             .col-lg-10
               p.mb-0 PAMEC es el Programa de Auditoría para el Mejoramiento de la Calidad en la Atención en Salud - PAMEC.
           .cajon.color-acento-contenido.p-4(data-aos="fade-left").mb-3
-            p En el 2015 con la resolución 226. Por medio de la cual se adiciona el numeral 2.2 del Manual de Inscripción de Prestadores y Habilitación de Servicios de Salud, adoptado mediante la Resolución 2003 de 2014, en el sentido de establecer un trámite especial para las Instituciones Prestadoras de Servicios de Salud intervenidas por la Superintendencia Nacional de Salud. 
+            p Es el mecanismo sistemático y continuo de evaluación y mejoramiento de la calidad observada respecto de la calidad esperada de la atención de salud que reciben los usuarios (Ministerio de Salud, 2006).
           p La Resolución 1043 de 2006 establece que el Programa de Auditoria para el Mejoramiento de la Calidad de la Atención en Salud, PAMEC “es la forma a través de la cual la institución implementará el componente de Auditoria para el Mejoramiento de la Calidad.”       
         .col-lg-4.col-10.mb-lg-0.mb-4(data-aos="fade-right")
           img(src='@/assets/curso/tema8/img1.png')

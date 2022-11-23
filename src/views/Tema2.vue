@@ -112,10 +112,10 @@
           .col-lg-4.d-flex.align-items-center.justify-content-center
             figure
               img(src='@/assets/curso/tema2/img7.png').m-auto
-      .tarjeta.color-acento-botones1.p-4(titulo="No simultaneidad.")
+      .tarjeta.color-acento-botones1.p-4(titulo="No simultaneidad")
         .row
           .col-lg-8.mb-4.mb-lg-0.p-4
-            h4 No simultaneidad.
+            h4 No simultaneidad
             p.mb-0 En ningún caso pueden aplicarse simultáneamente para un mismo servicio copagos y cuotas moderadoras.(vargas, 2012)
           .col-lg-4.d-flex.align-items-center.justify-content-center
             figure
@@ -354,7 +354,7 @@
           .col-lg-10
             p.mb-0.mt-3 Los copagos a que están obligados los afiliados al régimen subsidiado, son los aportes en dinero que corresponden a una parte del valor del servicio demandado y tienen como finalidad ayudar a financiar el sistema, de conformidad con el artículo 2º del Acuerdo 260 del Consejo Nacional de Seguridad social en Salud - CNSSS. Estos, según artículo 7º del Acuerdo 260 del Consejo Nacional de Seguridad Social en Salud - CNSSS, se aplican a:
         .cajon.color-acento-contenido.p-4(data-aos="fade-left")
-          p.mb-0 Los servicios y procedimientos no quirúrgicos del #[span.txt-c2 Plan Obligatorio de Salud subsidiado - POSS] que no tengan que ver con acciones de promoción y prevención, programas de atención materno infantil, programas de control de enfermedades transmisibles, enfermedades catastróficas o de alto costo, la atención inicial de urgencias, consulta externa médica, odontológica, paramédica y de medicina alternativa aceptada, consulta externa por médico especialista, fórmula de medicamentos para tratamiento ambulatorio, exámenes de diagnóstico por laboratorio clínico ordenados en forma ambulatoria y que no requieran autorización adicional a la del médico tratante, y exámenes de diagnóstico por imagenología, ordenados en forma ambulatoria y que no requieran autorización adicional a la del médico tratante.
+          p.mb-0 Los servicios y procedimientos no quirúrgicos del #[span.txt-c2 Plan Obligatorio de Salud Subsidiado - POSS] que no tengan que ver con acciones de promoción y prevención, programas de atención materno infantil, programas de control de enfermedades transmisibles, enfermedades catastróficas o de alto costo, la atención inicial de urgencias, consulta externa médica, odontológica, paramédica y de medicina alternativa aceptada, consulta externa por médico especialista, fórmula de medicamentos para tratamiento ambulatorio, exámenes de diagnóstico por laboratorio clínico ordenados en forma ambulatoria y que no requieran autorización adicional a la del médico tratante, y exámenes de diagnóstico por imagenología, ordenados en forma ambulatoria y que no requieran autorización adicional a la del médico tratante.
       .col-lg-4.col-10.mb-lg-0.mb-4(data-aos="fade-right")
         img(src='@/assets/curso/tema2/img37.png')
     .bg13

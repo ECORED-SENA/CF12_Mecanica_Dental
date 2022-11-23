@@ -99,18 +99,19 @@
                       span Enlace web
                       i.fas.fa-link
           p.mb-3 La Administradora de los Recursos del Sistema General de Seguridad Social en Salud -ADRES- es una entidad adscrita al Ministerio de Salud y Protección Social, con personería jurídica, autonomía administrativa y financiera y patrimonio independiente.
+          
           .row.justify-content-center.mb-5
             .col-lg-12
-              .tarjeta.color-primario.p-4
+              .tarjeta.color-primario.p-4.mb-3
                 .row.justify-content-around.align-items-center
                   .col
                     .row.align-items-center
                       .col.mb-3.mb-sm-0.pt-2
                         p Base de datos única de afiliados BDUA del Sistema General de Seguridad Social en Salud BDUA - SGSSS 
                       .col-sm-auto.d-flex.align-items-center
-                        a.boton.color-acento-botones.me-3.mg4(href="https://www.adres.gov.co/Paginas/PageNotFoundError.aspx?requestUrl=https://www.adres.gov.co/BDUA/Consulta-Afiliados-BDUA").mb-0                    
+                        a.boton.color-acento-botones.me-3.mg4(href="https://www.adres.gov.co/Paginas/PageNotFoundError.aspx?requestUrl=https://www.adres.gov.co/BDUA/Consulta-Afiliados-BDUA" target="_blank").mb-0                    
                           span Enlace web
-                          i.fas.fa-link
+                          i.fas.fa-link  
         .col-3.col-sm-2.col-lg-4
           img(src="@/assets/curso/tema5/img11.png")
       .row.justify-content-center.ps-3
