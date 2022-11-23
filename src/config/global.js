@@ -460,7 +460,7 @@ export default {
         'es la medida de la complejidad según se considere su composición estructural y funcional, así como la diversificación, desarrollo y producción de sus actividades, procedimientos e intervenciones.',
     },
     {
-      termino: 'Higiene:',
+      termino: 'Higiene',
       significado:
         'higiene hace referencia a la limpieza o aseo que hay en el local o en los trabajadores.',
     },
